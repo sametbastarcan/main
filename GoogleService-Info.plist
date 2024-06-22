@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1022662679399-9bq56b19c498ao7dra1hs7krb81q5pjc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1022662679399-9bq56b19c498ao7dra1hs7krb81q5pjc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1022662679399-1lvddmgk7ubkvkpdtojjplantbsotidf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCV023vQ6YqQkm9N7z6z1fGVB9PXjRWB-c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1022662679399</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yildiz.snatch</string>
+	<key>PROJECT_ID</key>
+	<string>snatch-mobile-5dbfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snatch-mobile-5dbfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1022662679399:ios:5b06a41e63c1f17b906dc2</string>
+	<key>DATABASE_URL</key>
+	<string>https://snatch-mobile-5dbfb.firebaseio.com</string>
+</dict>
+</plist>
